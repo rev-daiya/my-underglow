@@ -48,4 +48,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #ifdef TAPPING_TERM
 #undef TAPPING_TERM
 #endif  //tapping term
-#define TAPPING_TERMA 400
+#define TAPPING_TERMA 350
